@@ -326,7 +326,7 @@ h3 {
 
 #intro.section .container {
   color: white;
-  font-weight: 100;
+  font-weight: 200;
   left: 0;
   position: absolute;
   top: 0;
@@ -691,4 +691,9 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+}
+
+/* Hamed*/
+#about .container {
+    font-weight: 500; /* Change 500 to your desired weight (e.g., 400 for normal, 700 for bold) */
 }
